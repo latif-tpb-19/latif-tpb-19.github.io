@@ -6,6 +6,6 @@
 </head>
 <body>
 <h1> Ini website latif adi saputra XI TP B Nomor urut 19</h1>
-<p> Saya berhasil membuat website simple ini sendiri. </p>
+<p> Saya berhasil membuat website simple ini sendiri</p>
 </body>
 </html>
